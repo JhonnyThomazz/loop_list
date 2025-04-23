@@ -32,4 +32,4 @@ public class EX_01 {
 // 18		18<=20(v)	eu sou um jedi em java!
 // 19		19<=20(v)	eu sou um jedi em java!
 // 20		20<=20(v)	eu sou um jedi em java!
-// 21		21<=20(f)>	
+// 21		21<=20(f)	
